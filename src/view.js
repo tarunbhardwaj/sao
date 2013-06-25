@@ -311,7 +311,6 @@
             var cell = jQuery('<div/>');
             cell.css('text-overflow', 'ellipsis');
             cell.css('overflow', 'hidden');
-            cell.css('white-space', 'nowrap');
             cell.addClass('column-char');
             return cell;
         },
