@@ -28,5 +28,8 @@
   },
   "devDependencies": {
     "qunit": "~1.18.0"
+  },
+  "resolutions": {
+    "bootstrap": "~3.3.4"
   }
 }
